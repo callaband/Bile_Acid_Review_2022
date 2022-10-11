@@ -9,7 +9,7 @@ There are bile acid-associated proteins, transporters, and receptors in all tiss
 
 ### Box 2 Legend: 
 
-Bile acid with age - Observation of bile acids in meta analysis of metabolomics data associated with different human life stages using [ReDU]: https://redu.ucsd.edu/, revealing that patterns of bile acids change as we age.
+Bile acid with age - Observation of bile acids in meta analysis of metabolomics data associated with different human life stages using [ReDU](https://redu.ucsd.edu/), revealing that patterns of bile acids change as we age.
 
 ### Box 2 Discussion:
 
